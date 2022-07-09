@@ -13,14 +13,14 @@ html {
     --Very-pale-blue:hsl(225, 100%, 98%);
     --Desaturated-blue: hsla(224, 24%, 88%, 0.767);
     --Desaturated-blue2: hsl(224, 23%, 55%); 
- 
-
     --Dark-blue:hsl(223, 47%, 23%);
 }
 
 body {
     padding: 6rem 2rem 0;
     background-color: var(--Pale-blue);
+    background-image: url(/images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
 
 }
 
